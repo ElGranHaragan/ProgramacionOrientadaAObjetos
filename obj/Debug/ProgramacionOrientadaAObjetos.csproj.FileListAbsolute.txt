@@ -36,3 +36,22 @@ C:\Users\angel acosta\Source\Repos\ProgramacionOrientadaAObjetos\obj\Debug\Progr
 C:\Users\angel acosta\Source\Repos\ProgramacionOrientadaAObjetos\obj\Debug\ProgramacionOrientadaAObjetos.csproj.CoreCompileInputs.cache
 C:\Users\angel acosta\Source\Repos\ProgramacionOrientadaAObjetos\obj\Debug\ProgramacionOrientadaAObjetos.exe
 C:\Users\angel acosta\Source\Repos\ProgramacionOrientadaAObjetos\obj\Debug\ProgramacionOrientadaAObjetos.pdb
+C:\Users\Haragan\source\repos\ProgramacionOrientadaAObjetos\bin\Debug\ProgramacionOrientadaAObjetos.exe.config
+C:\Users\Haragan\source\repos\ProgramacionOrientadaAObjetos\bin\Debug\ProgramacionOrientadaAObjetos.exe
+C:\Users\Haragan\source\repos\ProgramacionOrientadaAObjetos\bin\Debug\ProgramacionOrientadaAObjetos.pdb
+C:\Users\Haragan\source\repos\ProgramacionOrientadaAObjetos\obj\Debug\ProgramacionOrientadaAObjetos.csproj.AssemblyReference.cache
+C:\Users\Haragan\source\repos\ProgramacionOrientadaAObjetos\obj\Debug\ProgramacionOrientadaAObjetos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Haragan\source\repos\ProgramacionOrientadaAObjetos\obj\Debug\ProgramacionOrientadaAObjetos.Form1.resources
+C:\Users\Haragan\source\repos\ProgramacionOrientadaAObjetos\obj\Debug\ProgramacionOrientadaAObjetos.FormAritmetica.resources
+C:\Users\Haragan\source\repos\ProgramacionOrientadaAObjetos\obj\Debug\ProgramacionOrientadaAObjetos.FormCatalogo.resources
+C:\Users\Haragan\source\repos\ProgramacionOrientadaAObjetos\obj\Debug\ProgramacionOrientadaAObjetos.FormEncuesta.resources
+C:\Users\Haragan\source\repos\ProgramacionOrientadaAObjetos\obj\Debug\ProgramacionOrientadaAObjetos.FormFibonacci.resources
+C:\Users\Haragan\source\repos\ProgramacionOrientadaAObjetos\obj\Debug\ProgramacionOrientadaAObjetos.FormFormulaGeneral.resources
+C:\Users\Haragan\source\repos\ProgramacionOrientadaAObjetos\obj\Debug\ProgramacionOrientadaAObjetos.FormIlusiones.resources
+C:\Users\Haragan\source\repos\ProgramacionOrientadaAObjetos\obj\Debug\ProgramacionOrientadaAObjetos.FormIlusiones2.resources
+C:\Users\Haragan\source\repos\ProgramacionOrientadaAObjetos\obj\Debug\ProgramacionOrientadaAObjetos.FormTrianguloAct3.resources
+C:\Users\Haragan\source\repos\ProgramacionOrientadaAObjetos\obj\Debug\ProgramacionOrientadaAObjetos.Properties.Resources.resources
+C:\Users\Haragan\source\repos\ProgramacionOrientadaAObjetos\obj\Debug\ProgramacionOrientadaAObjetos.csproj.GenerateResource.cache
+C:\Users\Haragan\source\repos\ProgramacionOrientadaAObjetos\obj\Debug\ProgramacionOrientadaAObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Haragan\source\repos\ProgramacionOrientadaAObjetos\obj\Debug\ProgramacionOrientadaAObjetos.exe
+C:\Users\Haragan\source\repos\ProgramacionOrientadaAObjetos\obj\Debug\ProgramacionOrientadaAObjetos.pdb
