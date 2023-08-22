@@ -70,8 +70,8 @@ namespace ProgramacionOrientadaAObjetos
 
         private void pictureBox7_Paint(object sender, PaintEventArgs e)
         {
-            int w = pictureBox1.Width;
-            int h = pictureBox1.Height;
+            int w = pictureBox7.Width;
+            int h = pictureBox7.Height;
             for (int i = 0; i < w / 2; i += 10) { 
                 e.Graphics.DrawLine(colores[2], w / 2, i, i, h - i);
             e.Graphics.DrawLine(colores[2], w / 2, i, w-i, h - i);
@@ -140,6 +140,17 @@ namespace ProgramacionOrientadaAObjetos
                 for (int i = 0; i < w - 20; i += 10)
                     e.Graphics.DrawRectangle(colores[0], ((w - i) / 2), ((h - i) / 2), i, i);
 
+            }
+        }
+
+        private void pictureBox5_Paint(object sender, PaintEventArgs e)
+        {
+            int w = pictureBox5.Width;
+            int h = pictureBox5.Height;
+            for (int i = 0; i < w; i += 10)
+            {
+                
+                e.Graphics.DrawLine(colores[3], i, h - i, w - i, h - i);
             }
         }
     }
